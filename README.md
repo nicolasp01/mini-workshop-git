@@ -22,3 +22,5 @@ As Apu said:
 - [ ] this is an incomplete item
 
 ![Soy charrua](/images/charrua.jpg)
+
+:trollface:
