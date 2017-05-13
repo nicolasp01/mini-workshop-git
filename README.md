@@ -13,10 +13,9 @@ README.md
 	*	Item 2b
 
 
-As Kanye West said:
+As Apu said:
 
-> We're living the future so
-> the present is our past.
+> Vengo puesto como sombrero.
 
 
 - [x] this is a complete item
