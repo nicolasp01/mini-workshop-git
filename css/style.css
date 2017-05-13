@@ -2,3 +2,9 @@ body {
 	color: blue;
 	font-family: sans-serif;
 }
+
+textarea {
+	height: 300px;
+	width: 400px;
+}
+
